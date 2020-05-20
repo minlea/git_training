@@ -3,3 +3,4 @@ This is my second line; I was added by someone else!
 Here is my third line, so I can create some conflicts!
 I'll even have a fourth line of text.
 And a fifth!
+Maybe even a sixth?
